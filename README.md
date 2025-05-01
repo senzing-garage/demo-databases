@@ -1,1 +1,1 @@
-# demo-sqlite-databases
+# demo-databases

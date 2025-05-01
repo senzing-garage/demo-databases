@@ -1,1 +1,1 @@
-# demo-sqlite-databases development
+# demo-databases development

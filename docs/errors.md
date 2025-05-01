@@ -1,1 +1,1 @@
-# demo-sqlite-databases errors
+# demo-databases errors
