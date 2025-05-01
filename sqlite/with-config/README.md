@@ -1,4 +1,4 @@
-# Sqlite database with Senzing Schema
+# Sqlite database with Senzing database schema and configuration
 
 Sqlite database with Senzing database schema installed and the Senzing configuration.
 
@@ -11,5 +11,5 @@ The Senzing configuration includes the default Senzing configuration information
 
 ## Details
 
-1. [x] Senzing Schema
-1. [x] Senzing Config
+1. [x] Senzing database schema
+1. [x] Senzing configuration

@@ -10,5 +10,5 @@ This database *does not* include the Senzing Configuration.
 
 ## Details
 
-1. [x] Senzing Schema
-1. [ ] Senzing Config
+1. [x] Senzing database schema
+1. [ ] Senzing configuration
