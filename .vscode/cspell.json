@@ -1,0 +1,16 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "CCLA",
+    "ICLA",
+    "Senzing",
+    "stackoverflow"
+  ],
+  "ignorePaths": [
+    ".git/*",
+    ".github/linters/.golangci.yaml",
+    ".history/*",
+    ".gitignore"
+  ]
+}
