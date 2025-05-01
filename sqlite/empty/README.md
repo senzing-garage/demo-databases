@@ -24,7 +24,6 @@ This is a zero-length file with no database.
 
     ```console
     curl \
-      --data-binary \
       --output ${SENZING_DATABASE_DIRECTORY}/sz.db \
       https://raw.githubusercontent.com/senzing-garage/demo-databases/refs/heads/main/sqlite/empty/sz.db
     ```
