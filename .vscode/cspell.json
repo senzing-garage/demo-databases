@@ -4,7 +4,9 @@
   "words": [
     "CCLA",
     "ICLA",
+    "golangci",
     "Senzing",
+    "esbenp",
     "stackoverflow"
   ],
   "ignorePaths": [
